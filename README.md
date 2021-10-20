@@ -1,1 +1,1 @@
-# mirepo
+# Repositorio para practicas
